@@ -1,0 +1,8 @@
+{
+    "name": "descriptor_params",
+    "value": [
+        "country",
+        "region"
+    ],
+    "from_secret": false
+}
